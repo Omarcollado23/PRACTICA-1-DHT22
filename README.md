@@ -62,7 +62,7 @@ Conectando el voltaje a 3V3 (color rojo)
 conexión a tierra (color negro)
 conexión a D15 (color amarillo)
 
-![](https://github.com/Omarcollado23/PRACTICADHT22/blob/main/FOTO%20DHT22.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICADHT22/blob/main/conexion.jpg?raw=true)
 
 ### Instrucciónes de operación
 
@@ -74,7 +74,7 @@ conexión a D15 (color amarillo)
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-(https://wokwi.com/projects/new/esp32)
+![](https://github.com/Omarcollado23/PRACTICADHT22/blob/main/FOTO%20DHT22.jpg?raw=true)
 
 
 ## Evidencias

@@ -78,7 +78,7 @@ conexión a D15 (color amarillo)
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/Omarcollado23/PRACTICADHT22/blob/main/FOTO%20DHT22.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICADHT22/blob/main/RESULTADOS.jpg?raw=true)
 
 
 # Créditos

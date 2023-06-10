@@ -74,7 +74,7 @@ conexión a D15 (color amarillo)
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-https://wokwi.com/projects/new/esp32
+(https://wokwi.com/projects/new/esp32)
 
 
 ## Evidencias
@@ -86,4 +86,4 @@ https://wokwi.com/projects/new/esp32
 
 Desarrollado por Ing. Omar Alejandro Collado Carriola
 
-- [GitHub](https://github.com/DiegoJm10)
+- [GitHub](https://github.com/Omarcollado23/PRACTICADHT22)

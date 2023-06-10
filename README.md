@@ -57,7 +57,11 @@ void loop() {
 
 ![](https://github.com/DiegoJm10/PracticaDHT/blob/main/Libreria%20DHT.png?raw=true)
 
-3. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
+3. Buscamos los compentes que ocuparemos dando clic en el icono con el signo (+) y  insertamos en panel junto al ESP32
+
+![](https://github.com/Omarcollado23/PRACTICADHT22/blob/main/COMPONENTES.jpg?raw=true)
+
+4. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
 Conectando el voltaje a 3V3 (color rojo)
 conexión a tierra (color negro)
 conexión a D15 (color amarillo)
@@ -75,11 +79,6 @@ conexión a D15 (color amarillo)
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
 ![](https://github.com/Omarcollado23/PRACTICADHT22/blob/main/FOTO%20DHT22.jpg?raw=true)
-
-
-## Evidencias
-
-[Video de Youtube](https://https://wokwi.com/)
 
 
 # Créditos
